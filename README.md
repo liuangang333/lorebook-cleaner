@@ -20,7 +20,7 @@
 2. 粘贴本仓库地址（HTTPS）：
 
    ```
-   https://github.com/<你的用户名>/lorebook-cleaner
+   https://github.com/liuangang333/lorebook-cleaner
    ```
 
 3. 安装完成后刷新页面。扩展列表里会出现「世界书随卡清理」。
