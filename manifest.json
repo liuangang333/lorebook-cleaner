@@ -1,0 +1,11 @@
+{
+    "display_name": "世界书随卡清理",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "DSH",
+    "version": "1.0.0",
+    "homePage": ""
+}
